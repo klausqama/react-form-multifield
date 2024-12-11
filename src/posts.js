@@ -3,7 +3,7 @@
  */
 import cover_01 from './assets/copertina-post.png'
 
-export const posts = [
+export const initialPosts = [
 	{
 		id: 1,
 		title: 'Una casa in legno',
